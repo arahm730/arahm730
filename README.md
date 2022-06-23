@@ -72,12 +72,11 @@
     
 <hr>
 
-
-<p>
-    <img align="left" width=407 src="https://github-readme-stats.vercel.app/api/top-langs?username=arahm730&show_icons=true&locale=en&layout=compact&theme=algolia" alt="arahm730" />
-    <img align="right" width=486 src="https://github-readme-streak-stats.herokuapp.com/?user=arahm730&theme=algolia" alt="arahm730" />
+<p align="center">
+ <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=arahm730&show_icons=true&locale=en&layout=compact&theme=algolia" alt="arahm730" />
 </p>
 
+<p align="center" ><img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=arahm730&theme=algolia" alt="arahm730" /></p>
 
 
 
