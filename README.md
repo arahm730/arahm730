@@ -7,11 +7,9 @@
 
 <br></br>
 
-- 📚 I'm a computer science student at **Oregon State University**
-
 - 👨‍🔬 I’m currently working as a laboratory technician at a biotechnology company
 
-- 💻 I’m currently learning **Redux and Next.js**
+- 💻 I’m  learning **Redux and Next.js**
 
 - 💬 Ask me about anything and I'll be happy to answer
 <br></br>
