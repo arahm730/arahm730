@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/hello.gif" align="center" style="width: 100%" />
+<img src="./assets/hello.gif" align="center" style="width: 70%" />
 </div> 
 
 <h1 align="center">Hi 👋, I'm A. Rahman</h1>
@@ -7,9 +7,9 @@
 
 <br></br>
 
-- 👨‍🔬 I’m currently working as a laboratory technician at a biotechnology company
+- 👨‍🔬 I’m currently working as a software developer
 
-- 💻 I’m  learning **Redux and Next.js**
+- 💻 After learning Javascript and the MERN stack, I am now learning Java and Spring Boot.
 
 - 💬 Ask me about anything and I'll be happy to answer
 <br></br>
@@ -71,10 +71,10 @@
 <hr>
 
 <p align="center">
- <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=arahm730&show_icons=true&locale=en&layout=compact&theme=algolia" alt="arahm730" />
+ <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=arahm730&show_icons=true&locale=en&layout=compact&theme=algolia" alt="arahm730" />
 </p>
 
-<p align="center" ><img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=arahm730&theme=algolia" alt="arahm730" /></p>
+<p align="center" ><img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=arahm730&theme=algolia" alt="arahm730" /></p>
 
 
 
